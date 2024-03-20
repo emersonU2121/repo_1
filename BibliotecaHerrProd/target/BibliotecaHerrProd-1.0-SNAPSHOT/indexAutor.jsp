@@ -121,7 +121,7 @@
                                             <input type="text" autocomplete="off" name="codigoautor" maxlength="5"
                                                    data-parsley-error-message="Campo requerido" id="codigoautor"
                                                    class="form-control"
-                                                   required placeholder="Ingrese el codigo"/>
+                                                   required placeholder="Ingrese el codigo porfavor"/>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
